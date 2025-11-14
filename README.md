@@ -2,5 +2,4 @@
 
 Computer Science student at UCI focused on Intelligent Systems, ML, and full-stack engineering.
 
-📌 github.com/thomxsnguyen  
 📫 thomasn8255@gmail.com
