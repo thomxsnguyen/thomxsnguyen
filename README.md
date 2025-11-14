@@ -1,5 +1,5 @@
-## Hi, I'm Thomas 👋
+## 👋 Hi, I'm Thomas
 
-Third year CS @ UCI • Intelligent Systems  
-Currently working as a Research Assistant at CCNL + Calit2  
-ML • AI • Full-stack
+🎓 CS @ UCI (Intelligent Systems)  
+🧠 Currently working at **CCNL** + **Calit2**  
+🤖 ML / AI / Full-Stack  
