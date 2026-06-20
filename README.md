@@ -1,1 +1,1 @@
-swe @ raytheon
+SWE Intern @ Raytheon
