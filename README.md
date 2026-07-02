@@ -1,1 +1,1 @@
-SWE Intern @ Raytheon
+Software Engineering Intern @ Raytheon
