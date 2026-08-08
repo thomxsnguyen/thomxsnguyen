@@ -1,1 +1,1 @@
-Software Engineering Intern @ Raytheon
+First year graduate student at the University of California, San Diego
