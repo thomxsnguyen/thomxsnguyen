@@ -1,1 +1,1 @@
-First year graduate student at the University of California, San Diego
+First year graduate student at UCSD
